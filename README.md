@@ -5,7 +5,6 @@ I enjoy building things, breaking things, and figuring out how they work under t
 
 ## About me
 
-- Currently pursuing a B.Tech in Computer Science and Engineering at Nirma University.
 - I'm deeply interested in Machine Learning, Deep Learning, Computer Vision, and LLMs.
 - I enjoy building AI-powered applications and scalable backend systems.
 - I'm exploring RAG, AI Agents, system design, and intelligent software systems.
