@@ -32,7 +32,7 @@ Currently exploring contributions in:
 - Developer tooling
 - Data science libraries
 
-You can find my open-source contributions [here](https://github.com/khush-patel-09).
+You can find my open-source contributions [here](https://github.com/khush-patel-09?tab=repositories).
 
 ## Currently learning
 
