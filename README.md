@@ -37,4 +37,3 @@ You can find my open-source contributions [here](https://github.com/khush-patel-
 
 Machine Learning → Deep Learning → LLMs → AI Agents → Production Systems
 
-Always building. Always learning.
